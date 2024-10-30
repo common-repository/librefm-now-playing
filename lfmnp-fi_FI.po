@@ -1,0 +1,73 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Libre.fm Now Playing\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-12-09 16:35+0200\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Jani Uusitalo <jani@mummila.net>\n"
+"Language-Team: Jani Uusitalo <jani@mummila.net>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Finnish\n"
+"X-Poedit-Country: FINLAND\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-Basepath: /home/jani/librefm-now-playing/\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: /home/jani/librefm-now-playing\n"
+
+#: /home/jani/librefm-now-playing/librefm-now-playing.php:5
+#: /home/jani/librefm-now-playing/librefm-now-playing.php:42
+msgid "Libre.fm Now Playing"
+msgstr "Libre.fm:n parhaillaan soi"
+
+#: /home/jani/librefm-now-playing/librefm-now-playing.php:6
+msgid "A widget to display your 'now playing' status from Libre.fm."
+msgstr "Vimpain joka näyttää parhaillaan soivan kappaleen Libre.fm:stä."
+
+#: /home/jani/librefm-now-playing/librefm-now-playing.php:43
+msgid "Display your 'now playing' status from Libre.fm."
+msgstr "Näytä parhaillaan soiva kappale Libre.fm:stä."
+
+#: /home/jani/librefm-now-playing/librefm-now-playing.php:98
+msgid "%a: %t on Libre.fm"
+msgstr "%a: %t Libre.fm:ssä"
+
+#: /home/jani/librefm-now-playing/librefm-now-playing.php:131
+msgid "Now Playing"
+msgstr "Parhaillaan soi"
+
+#: /home/jani/librefm-now-playing/librefm-now-playing.php:139
+msgid "Title:"
+msgstr "Otsikko:"
+
+#: /home/jani/librefm-now-playing/librefm-now-playing.php:140
+msgid "Your Libre.fm username:"
+msgstr "Libre.fm-käyttäjänimesi:"
+
+#: /home/jani/librefm-now-playing/librefm-now-playing.php:141
+#, php-format
+msgid "Formatting %s:"
+msgstr "Muotoilu %s:"
+
+#: /home/jani/librefm-now-playing/librefm-now-playing.php:141
+msgid "(%a = artist, %t = track)"
+msgstr "(%a = esittäjä, %t = kappale)"
+
+#: /home/jani/librefm-now-playing/librefm-now-playing.php:142
+msgid "Link title to your profile:"
+msgstr "Otsikko linkitetään profiiliisi:"
+
+#: /home/jani/librefm-now-playing/librefm-now-playing.php:143
+msgid "Link track:"
+msgstr "Kappale linkitetään:"
+
+#: /home/jani/librefm-now-playing/librefm-now-playing.php:144
+msgid "Hide widget when not playing:"
+msgstr "Vimpain piiloon kun ei soiteta:"
+
+#: /home/jani/librefm-now-playing/librefm-now-playing.php:178
+#, php-format
+msgid "%s on Libre.fm"
+msgstr "%s Libre.fm:ssä"
+
